@@ -16,7 +16,7 @@
 # ABOUT ME
 I am a molecular biologist with more than 5 years wet lab research experience 👨‍🔬 Now I expand my expertise in Data Science to connect it to molecular biology and gain more deeper understanding of the vast of data currently produced in research 👨‍💻 Namely, I am interested in application of cutting-edge data analysis methods as well as machine learning to proteomics data to create new or improve current data analysis strategies.
 
-- 🔭 I'm currently seeking for a job in Data Science and thinking on my first pet-project. 
+- 🔭 I'm currently seeking for a job in Data Science and thinking on ideas for my first pet project. 
 
 # PROGRAMMING LANGUAGES AND TOOLS
 
