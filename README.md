@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY4MzBlN2IyZjA3MzBiNGExM2VmNjA4ZDcyMDUyODU0MWUyMzk5YiZjdD1n/w8BjEroWH0YovA0HDY/giphy.gif" width="70%" height="60%"/>
 </div>
 
-<div id="contact_badges">
+<div id="contact_badges" align="center">
   <a href="https://t.me/vododokhov21"> 
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
