@@ -7,7 +7,7 @@
   </a>
 </div>
 
-![[Foo]([http://www.google.com.au/images/nav_logo7.png](https://github.com/uladzislau21/uladzislau21/blob/main/cv.png)](https://github.com/uladzislau21/uladzislau21/blob/main/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%20%D0%92%D0%BE%D0%B4%D0%BE%D0%B4%D0%BE%D1%85%D0%BE%D0%B2.pdf)
+[![Foo]([http://www.google.com.au/images/nav_logo7.png)](https://github.com/uladzislau21/uladzislau21/blob/main/cv.png)](https://github.com/uladzislau21/uladzislau21/blob/main/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%20%D0%92%D0%BE%D0%B4%D0%BE%D0%B4%D0%BE%D1%85%D0%BE%D0%B2.pdf)
 
 - 🔭 I'm currently seeking for a **REMOTE** job in Data Science and thinking on ideas for my first pet project.
 - 👴 Till 18th of May 2023 I am taking part in Kaggle competition on Parkinson's disease progression prediction (https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction).
