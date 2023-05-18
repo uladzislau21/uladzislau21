@@ -10,9 +10,6 @@
 </div>
 
 
-- 🔭 I'm currently seeking for a **REMOTE** job in Data Science and thinking on ideas for my first pet project.
-- 👴 Till 18th of May 2023 I am taking part in Kaggle competition on Parkinson's disease progression prediction (https://www.kaggle.com/competitions/amp-parkinsons-disease-progression-prediction).
-
 # PROGRAMMING LANGUAGES AND TOOLS
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
