@@ -5,8 +5,6 @@
   <a href="https://www.linkedin.com/in/vadadokhau"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/uladzislau21/uladzislau21/blob/main/CV_Vadadokhau.pdf"> 
-    <img src="https://github.com/uladzislau21/uladzislau21/blob/main/cv(1).png"/>
 </div>
 
 
